@@ -46,16 +46,3 @@ fig.update_xaxes(
 )
 
 fig.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
